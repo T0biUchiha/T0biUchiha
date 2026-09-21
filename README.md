@@ -33,8 +33,6 @@ I'm a software engineer based in Hyderabad, India, with 4 years of experience bu
 | Project | What it demonstrates |
 | --- | --- |
 | [Suvatsalya](https://github.com/T0biUchiha/suvatsalya-new) | A full-stack public website and admin CMS with rich content authoring, SEO metadata, dynamic sitemaps, and MongoDB-backed content. |
-| [Souled AI](https://github.com/T0biUchiha/souled-ai) | An AI-focused TypeScript project. |
-| [Autter Next.js SaaS Demo](https://github.com/T0biUchiha/autter-demo-nextjs-saas) | A Next.js/TypeScript SaaS demonstration project. |
 
 ## Currently exploring
 
@@ -45,7 +43,3 @@ I'm a software engineer based in Hyderabad, India, with 4 years of experience bu
 ## Open to the right freelance work
 
 I take on selective freelance projects where I can make a meaningful difference - especially React/TypeScript applications, full-stack product features, AI integrations, dashboards, APIs, and performance improvements. If you have an interesting problem to solve, feel free to reach out at [adityarsharma314@gmail.com](mailto:adityarsharma314@gmail.com).
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T0biUchiha&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent" alt="Aditya's GitHub statistics" />
-</p>
