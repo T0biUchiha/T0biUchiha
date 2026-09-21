@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi, I'm Aditya Sharma 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t0biuchiha&label=Profile%20views&color=0e75b6&style=flat" alt="t0biuchiha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t0biuchiha" alt="t0biuchiha" /></a> </p>
-
-- 🌱 I’m currently learning **React and Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/T0biUchiha](https://github.com/T0biUchiha)
-
-- 📫 How to reach me **adityarsharma314@gmail.com**
-
-- 📄 Know about my experiences [https://adityasharma-portfolio.netlify.app/](https://adityasharma-portfolio.netlify.app/)
-
-- ⚡ Fun fact **I'm very creative with ideas**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adi54164265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi54164265" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/aditya-sharma-668b1a159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aditya-sharma-668b1a159" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer</strong> · Frontend & Full-Stack Development · AI Integrations
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:adityarsharma314@gmail.com">Email</a> ·
+  <a href="https://github.com/T0biUchiha">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0biuchiha&show_icons=true&locale=en&layout=compact" alt="t0biuchiha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0biuchiha&show_icons=true&locale=en" alt="t0biuchiha" /></p>
+I'm a software engineer based in Hyderabad, India, with 4 years of experience building production web applications, data-heavy interfaces, real-time systems, and AI-enabled product features. I enjoy taking a product from a rough idea to a reliable, well-tested experience.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t0biuchiha&" alt="t0biuchiha" /></p>
+## What I work with
 
+- **Frontend:** React, TypeScript, JavaScript, React Native, Vite, Redux Toolkit, TanStack Query/Table, Tailwind CSS
+- **Backend & APIs:** Node.js, Express, NestJS, REST APIs, WebSockets, JWT, RBAC, scheduled jobs
+- **Data & integrations:** PostgreSQL, MongoDB, MySQL, OAuth, Pipedream, Composio, Shopify API, Firebase Analytics
+- **AI & quality:** LLM applications, MCP, AI agents/assistants, Playwright, k6, GitHub Actions, Docker
+
+## Experience
+
+| Role | Company | Highlights |
+| --- | --- | --- |
+| Software Developer Engineer | **NodeShift AI** · Remote | Built frontend, backend, database, OAuth/MCP integrations, AI-agent features, real-time chat flows, and k6 performance testing. |
+| Software Developer | **ITS Planners and Engineers** · Hyderabad | Built route-planning and operations products with real-time GPS tracking, advanced data grids, RBAC, and led a 5-engineer team on a product built from scratch. |
+| Junior Software Developer | **Cedcoss Pvt Ltd** · Lucknow | Developed Yii2 APIs and React/PHP admin workflows, with Shopify and Firebase integrations. |
+
+## Selected projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Suvatsalya](https://github.com/T0biUchiha/suvatsalya-new) | A full-stack public website and admin CMS with rich content authoring, SEO metadata, dynamic sitemaps, and MongoDB-backed content. |
+| [Souled AI](https://github.com/T0biUchiha/souled-ai) | An AI-focused TypeScript project. |
+| [Autter Next.js SaaS Demo](https://github.com/T0biUchiha/autter-demo-nextjs-saas) | A Next.js/TypeScript SaaS demonstration project. |
+
+## Currently exploring
+
+- Practical AI agents, LLM workflows, and MCP integrations
+- High-quality React/TypeScript product engineering
+- Performance testing and dependable real-time systems
+
+## Open to the right freelance work
+
+I take on selective freelance projects where I can make a meaningful difference - especially React/TypeScript applications, full-stack product features, AI integrations, dashboards, APIs, and performance improvements. If you have an interesting problem to solve, feel free to reach out at [adityarsharma314@gmail.com](mailto:adityarsharma314@gmail.com).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T0biUchiha&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent" alt="Aditya's GitHub statistics" />
+</p>
