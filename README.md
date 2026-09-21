@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:adityarsharma314@gmail.com">Email</a> ·
+  <a href="https://adityasharma-portfolio.netlify.app/">Portfolio</a> ·
   <a href="https://github.com/T0biUchiha">GitHub</a>
 </p>
 
